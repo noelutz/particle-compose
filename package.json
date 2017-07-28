@@ -1,0 +1,19 @@
+{
+  "name": "compose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Compose.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noelutz/particle-compose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noelutz/particle-compose/issues"
+  },
+  "homepage": "https://github.com/noelutz/particle-compose#readme"
+}
